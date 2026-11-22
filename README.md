@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f46136,50:ed7900,100:f6b26b&height=200&section=header&text=SteFaniPF&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Data%20Analyst%20%&descSize=18&descAlignY=55" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F04411,50:E69138,100:F58108&height=200&section=header&text=SteFaniPF&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Data%20Analyst%20%&descSize=18&descAlignY=55" width="100%" alt="banner"/>
 
-<a href="https://github.com/SteFaniPF"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning" alt="Typing SVG"/></a>
+<a href="https://github.com/SteFaniPF"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C96904&center=true&vCenter=true&width=640&lines=;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning" alt="Typing SVG"/></a>
 
 <br/>
 
