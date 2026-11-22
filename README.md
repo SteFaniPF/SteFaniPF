@@ -16,6 +16,8 @@
 ## 🛠️ Stack
 
 **Linguagens & Dados**
+
+
 <img 
     align="left" 
     alt="Python" 
@@ -24,7 +26,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 <img 
     align="left" 
     alt="SQL" 
@@ -34,7 +36,44 @@
     src="https://www.svgviewer.dev/static-svgs/476508/sql.svg" 
 />
 
+<img 
+    align="left" 
+    alt="R" 
+    title="R"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/444065/legal-license-registered.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/pandas.svg" 
+/>
+<img 
+    align="left" 
+    alt="Numpy" 
+    title="Numpy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/1200/numpy.jpg" 
+/>
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.icon-icons.com/2667/PNG/512/jupyter_app_icon_161280.png" 
+/>
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
