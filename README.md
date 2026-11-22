@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/stefanifioravante/"><img src="https://img.shields.io/badge/LinkedIn-stefanifioravante-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:stefani.postalef@gmail.com"><img src="https://img.shields.io/badge/E--mail-stefani.postalef@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+<a href="https://www.linkedin.com/in/stefanifioravante/"><img src="https://img.shields.io/badge/LinkedIn-stefanifioravante-BF6202?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:stefani.postalef@gmail.com"><img src="https://img.shields.io/badge/E--mail-stefani.postalef@gmail.com-F48822?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=SteFaniPF&color=3b82f6&style=flat-square&label=Profile+Visits" alt="Visits"/>
+<img src="https://komarev.com/ghpvc/?username=SteFaniPF&color=EDB52D6&style=flat-square&label=Profile+Visits" alt="Visits"/>
 
 </div>
 
