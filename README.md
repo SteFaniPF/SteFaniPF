@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:8b5cf6,100:10b981&height=200&section=header&text=SteFaniPF&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Data%20Analyst%20%&descSize=18&descAlignY=55" width="100%" alt="banner"/>
 
-<a href="https://github.com/SteFaniPF"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=Cientista+de+Dados+S%C3%AAnior;Docente+%40+UNISO+e+UniMax;Instrutor+S%C3%AAnior+%40+Generation+Brasil;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning" alt="Typing SVG"/></a>
+<a href="https://github.com/SteFaniPF"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning" alt="Typing SVG"/></a>
 
 <br/>
 
