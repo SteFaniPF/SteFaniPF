@@ -58,7 +58,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)-->
 
 
+## 👨‍💻 Sobre mim
+> ** Financial Projects professional with 10+ years of experience, currently transitioning into a career as a Data Analyst, combining business knowledge, technical expertise, and analytical thinking to turn data into actionable insights.**
 
+- 🔄 **Career Transition — moving from Financial Projects and ERP Systems to Data Analytics.
+- 📊 **Data Analytics — data analysis, validation, pattern identification, and business insights.
+- 💻 **Technical Skills — SAP FI, Oracle EBS, SQL, PL/SQL, Python, and Power BI.
+- 🏦 **Business Expertise — Order-to-Cash (O2C), Procure-to-Pay (P2P), Record-to-Report (R2R), and financial processes.
+- 🎯 **Key Strengths — analytical thinking, problem-solving, critical thinking, and process improvement.
+- 📍 **Brazil · 🌐 Open to remote and hybrid opportunities.
+- 💼 **Open to opportunities as a Junior or Mid-Level Data Analyst.
+
+
+
+  
 ## 📊 GitHub Stats
 
 <div align="center">
