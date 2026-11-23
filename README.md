@@ -58,3 +58,22 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)-->
 
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SteFaniPF&theme=dracula&hide_border=true&locale=en_US" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/3b82f6/SteFaniPF" alt="Contributions Graph" width="90%"/>
+
+</div>
+
+
+
+
+
+
+
