@@ -69,7 +69,13 @@
 - 📍 **Brazil** · 🌐 Open to remote and hybrid opportunities.
 - 💼 **Open to opportunities** as a Junior or Mid-Level Data Analyst.
 
+### 💎 Why Work With Me?
 
+| 📊 Data → Business Insights | 💻 Technology & ERP| 🏦 Financial Expertise | 🔍 Analytical Thinking |
+| :---: | :---: | :---: | :---: |
+| Data analysis, validation, and identifying inconsistencies to support better business decisions. | Hands-on experience with SAP FI, Oracle EBS, SQL, PL/SQL, Python, and Power BI. | S10+ years of experience in financial projects, O2C, P2P, R2R, and Brazilian tax processes. | Problem-solving, critical thinking, process improvement, and translating business needs into actionable insights. |
+
+## 🛠️ Stack
 
   
 ## 📊 GitHub Stats
